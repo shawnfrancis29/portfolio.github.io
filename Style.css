@@ -1,0 +1,167 @@
+#allTitles{
+    font-family:'Bahnschrift SemiBold';
+    font-size: larger;    
+    background-color: transparent;
+    border-color: transparent;
+}
+#myName:hover{
+background-color: rgb(225, 235, 255);
+}
+#contact:hover{
+background-color: rgb(225, 235, 255);
+}
+#about:hover{
+background-color: rgb(225, 235, 255);
+}
+body{
+  background-color: #e4fbff;
+}
+#myName{
+    padding-right: 1%;
+    padding-left: 1%;
+    margin-right: 67%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    font-family:'Bahnschrift SemiBold';
+    font-size: large;    
+    background-color: transparent;
+    border-color: transparent;
+}#contact{
+    padding-right: 1%;
+    padding-left: 1%; 
+    background-color: transparent;
+    border-color: transparent;
+    font-family:'Bahnschrift SemiBold';
+    padding-top: 1%;
+    padding-bottom: 1%;
+    font-size: large;   
+}#about{
+    padding-right: 1%;
+    padding-left: 1%;
+    font-family:'Bahnschrift SemiBold';
+    font-size: large;  
+    background-color: transparent;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    border-color: transparent;
+}
+.center{
+background-color:rgb(225,235, 255) ;
+padding-left: 45%;
+border:1px solid rgb(60, 175, 175);
+}
+#pic{
+    width: 15%;
+    border-radius: 50%;
+    margin-top: 5%;
+    border: 7px solid rgb(255, 255, 255);
+}#pic:hover{
+    border: 7px solid rgb(85, 196, 51);;
+}#contactPic{
+    position: relative;
+    top: 28px;
+    width: 4%;
+    border-radius: 25%;
+}#contactinfo{
+    margin-top: -3%;
+    margin-bottom: 3%;
+}
+#name{
+    margin-left: -10%;
+    color: rgb(47, 127, 151);
+    
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}#intro{
+    margin-left: -4%;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:rgb(120, 170, 204);
+}.skills{
+    margin-top: 2%;
+    padding-left: 30%;
+    color: white;
+    font-family:'Bahnschrift SemiBold';
+}
+.c{
+    padding-left: 5%;
+    background-color: rgb(104, 235, 247);
+    width: 50%;
+}.sql{
+    padding-left: 5%;
+    background-color: rgb(104, 235, 247);
+    width: 50%;
+}.mvc{
+    padding-left: 5%;
+    background-color: rgb(104, 235, 247);
+    width: 50%;
+}.html{
+    padding-left: 5%;
+    background-color: rgb(104, 235, 247);
+    width: 50%;
+}.css{
+    padding-left: 5%;
+    background-color: rgb(104, 235, 247);
+    width: 50%;
+}.js{
+    padding-left: 5%;
+    background-color: rgb(104, 235, 247);
+    width: 50%;
+}.getAllContact{
+    text-align: center;
+    font-size: larger;
+    font-family:'Bahnschrift SemiBold';
+    margin-left: 30%;
+    margin-right: 30%;
+}#aboutMe{
+  text-align: center;
+  font-family:'Bahnschrift SemiBold';
+  font-size: 20px;  
+}#currentEducation{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+html{
+    scroll-behavior: smooth;
+}
+#myServices{
+    text-align: center;
+    font-size:22px;
+    font-family:monospace;
+}.sticky{
+    position:fixed;
+    top: 0%;
+    width: 100%;
+}
+#aboutMyWork{
+    text-align: center;
+    font-family:monospace;
+    font-size: 22px;
+}#twitter{
+    text-decoration: none;
+    color: black;
+}#email{
+    text-decoration: none;
+    color: black;
+}#facebook{
+    text-decoration: none;
+    color: black;
+}#linkedIn{
+    text-decoration: none;
+    color: black;
+}
+#twitter:hover{
+color: gray;
+font-size: large;
+}#email:hover{
+    color:gray;
+    font-size: large;
+}#facebook:hover{
+    color:gray;
+    font-size: large;
+}#linkedIn:hover{
+    color:gray;
+    font-size: large;
+}.getTogather{
+    text-align:center;
+    background-color: gray;
+}table<th{
+background-color:cornflowerblue;
+}
